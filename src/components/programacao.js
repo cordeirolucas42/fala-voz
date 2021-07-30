@@ -3,7 +3,7 @@ import * as React from "react"
 import { Container,Row,Col } from "react-bootstrap"
 
 import 'bootstrap/dist/css/bootstrap.min.css'
-import ThemeIcon from "../images/voice.png"
+import ThemeIcon from "./voice.png"
 
 const Programacao = () => {
     const prog = {
